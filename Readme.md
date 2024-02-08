@@ -1,27 +1,31 @@
+!["Logo del DAW 2023-2025"|10](<./Sin título.png>)
+
 # Tareas
 
-1. Equipo Aaron
 
-    [] Proyectos
+1. **Equipo Aaron**
 
-2. Equipo Nico
+    [ ] Proyectos
 
-    [] Contacto
+2. **Equipo Nico**
 
-3. Equipo Cristopher
+    [ ] Contacto
 
-    [] Donaciones
+3. **Equipo Cristopher**
 
-4. Equipo David
+    [ ] Donaciones
 
-    [] Crear Pagina inicio
+4. **Equipo David**
 
-    [] Crear Pagina Acerca de
-    
+    [ ] Crear Pagina inicio
+
+    [ ] Crear Pagina Acerca de
+
     [x] Paleta de colores
 
-5. Equipo Hugo
+5. **Equipo Hugo**
 
-    [] Blog / Noticias
-    [] Transparencia
+    [ ] Blog / Noticias
+
+    [ ] Transparencia
  
