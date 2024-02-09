@@ -17,7 +17,7 @@
 
 4. **Equipo David**
 
-    [ ] Crear Pagina inicio
+    [x] Crear Pagina inicio
 
     [ ] Crear Pagina Acerca de
 
